@@ -7,6 +7,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -487,4 +488,8 @@ h6,
 }
 #header5-2 .mbr-section-lead {
   color: #9c9a9a;
+}
+#header5-2 .mbr-section-lead SPAN {
+  font-size: 17px;
+  font-family: 'Open Sans', sans-serif;
 }
