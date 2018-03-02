@@ -1526,7 +1526,7 @@ body {
     display: flex;
     align-items: center;
     z-index: 101;
-    min-height: 76px;
+    min-height: 50px;
   }
   .cid-qL6BlgF3Rr .navbar-toggler {
     display: none;
