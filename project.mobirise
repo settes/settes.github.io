@@ -340,7 +340,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Destaque sua marca e seus negócios no Mundo Digital",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary-outline\" href=\"index.html#content1-p\" data-toolbar=\"-mbrBtnMove\">BORA!</a>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary-outline\" href=\"index.html#content1-p\" data-toolbar=\"-mbrBtnMove\">BORA!</a>",
                 "overlayOpacity": "0.7"
               },
               {
