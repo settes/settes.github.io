@@ -1628,35 +1628,6 @@ body {
     text-align: center;
   }
 }
-.cid-qL7UBMoa3u {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-qL7UBMoa3u .card {
-  padding: 1rem 1rem 3rem 1rem;
-}
-.cid-qL7UBMoa3u .card-img {
-  padding: 0 0 2rem;
-}
-.cid-qL7UBMoa3u .mbr-section-btn {
-  margin-left: 0;
-}
-@media (min-width: 992px) {
-  .cid-qL7UBMoa3u .my-col {
-    flex: 0 0 20%;
-    max-width: 20%;
-    padding: 15px;
-  }
-}
-@media (max-width: 767px) {
-  .cid-qL7UBMoa3u .card-title {
-    text-align: center;
-  }
-  .cid-qL7UBMoa3u p.mbr-text {
-    text-align: center;
-  }
-}
 .cid-qL7mDViLAQ {
   padding-top: 45px;
   padding-bottom: 45px;
