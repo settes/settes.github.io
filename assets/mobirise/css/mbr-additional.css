@@ -1626,7 +1626,7 @@ body {
   .cid-qMr4JpXmTz .my-col {
     flex: 0 0 20%;
     max-width: 20%;
-    padding: 15px;
+    padding: 0px;
   }
 }
 @media (max-width: 767px) {
