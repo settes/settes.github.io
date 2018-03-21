@@ -877,9 +877,9 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/screenshot-1-640x300.png",
-                "thumb": "@PROJECT_PATH@/assets/images/screenshot-1-640x300-639x300.png",
-                "alt": "Site CWI Administradora",
+                "image": "@PROJECT_PATH@/assets/images/siteces-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/siteces-2000x2000-800x800.jpg",
+                "alt": "Site C&S Telecom",
                 "customStyle1": "display-7",
                 "caption": "Desenvolvimento do site CWI Administradora",
                 "active": false
@@ -889,12 +889,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/home-nova-1360x765.png",
-                "thumb": "@PROJECT_PATH@/assets/images/home-nova-1360x765-800x450.png",
+                "image": "@PROJECT_PATH@/assets/images/siteistransportes-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/siteistransportes-2000x2000-800x800.jpg",
                 "alt": "Site IS Transportes",
                 "customStyle1": "display-7",
                 "caption": "Desenvolvimento do site IS Transportes",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Identidade Visual",
@@ -942,7 +942,7 @@
                 "alt": "Renovação Nova Aliança Contábil",
                 "customStyle1": "display-7",
                 "caption": "Renovação de Identidade Nova Aliança Contábil",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsivo",
