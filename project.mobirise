@@ -859,6 +859,8 @@
           "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,Slider,BootstrapCarouselSwipe,Gallery,VimeoVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"2\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Tags Color\" name=\"tagsColor\" value=\"#ffcc00\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#555555\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#000000\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\" mbr-gallery-show-filter mbr-gallery-show-bullets mbr-gallery-show-text></div>\n    </div>\n</section>",
           "_cid": "qKxXH8PFjF",
           "_anchor": "gallery1-6",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
           "_protectedParams": [
             "text_all",
             "gallery__filtersTextStyle",
@@ -913,12 +915,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/folhetocamec-2000x2000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/folhetocamec-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/folhetocamec2-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/folhetocamec2-2000x2000-800x800.jpg",
                 "alt": "Folheto CAMEC Engenharia",
                 "customStyle1": "display-7",
                 "caption": "Folheto CAMEC Engenharia",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Email Marketing",
@@ -966,12 +968,10 @@
                 "alt": "Logo Aisthetike",
                 "customStyle1": "display-7",
                 "caption": "Renovação de Logo e Identidade - Aisthetikê",
-                "active": true
+                "active": false
               }
             ]
-          },
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          }
         },
         {
           "_styles": {
